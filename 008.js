@@ -6,3 +6,4 @@ for (let i = 1; i <= jmlInput; i++) {
 }
 
 alert("Jumlah seluruh data yang diinputkan adalah : " + hasil);
+//saya debugging pakai chrome
